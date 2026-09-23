@@ -1,0 +1,14 @@
+{
+    "nom": "Chez Awa",
+    "proprietaire": "Awa Koné",
+    "produits": [
+        {
+            "nom": "Riz",
+            "prix": 2500
+        },
+        {
+            "nom": "Huile",
+            "prix": 1800
+        }
+    ]
+}
